@@ -31,7 +31,7 @@ int main() {
 	{
 		if (c != strs[i][k])
 		{
-			cout << " het" ;
+			cout << "cham dut chuoi" ;
 			break;
 		}
 		else {
